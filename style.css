@@ -28,7 +28,7 @@ video{
 }
 .thetop img{
  position: absolute;
-    margin-left: 53%;
+    margin-left: 41.5%;
     cursor: pointer;
     z-index: 6;
 }
@@ -500,7 +500,7 @@ iframe{
     width: 50%;
 }
 #logore{
-    margin-left:100px;
+    margin-left:80px;
     margin-top: 10px;
 }
 
